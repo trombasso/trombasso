@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trombasso
+- 👋 Hi, I’m <b>@trombasso</b>
 - 👀 I’m interested in nerdy stuff
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on who knows at the moment.
