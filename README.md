@@ -1,8 +1,8 @@
-- 👋 Hi, I’m <b>@trombasso</b>
-- 👀 I’m interested in nerdy stuff
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on who knows at the moment.
-- 📫 How to reach me...by messaging me here.
+Name is Trombasso, Data Science student from Bodø Norway.
+
+Mostly into python for the moment, but just getting started.
+Will try to upload some of the cooler school-projects and also private projects.
+
 
 <!---
 trombasso/trombasso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
